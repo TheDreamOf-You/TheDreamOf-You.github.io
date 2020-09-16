@@ -3,7 +3,7 @@ title: The Dream Of You Interlingua
 SEOTitle: TheDreamOfYou - Makes Communication Easier
 header-img: img/post-bg-desk.jpg
 email: 1079214507@qq.com
-description: "看淡一点再努力一点，无论生活怎样，都不要忘记微笑，愿你成为自己的太阳，无需凭借谁的光。"
+description: 看淡一点再努力一点，无论生活怎样，都不要忘记微笑，愿你成为自己的太阳，无需凭借谁的光。
 keyword: "Java, TheDreamOfYou, Interlingua, Globien"
 url: "https://TheDreamOf-You.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "https://github.com/globien/globien.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
